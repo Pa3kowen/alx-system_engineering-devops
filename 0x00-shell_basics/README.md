@@ -1,3 +1,1 @@
-Delete the file betty
-Delete the directory 
-Delete the directory 
+a script that changes the working directory to the previous one
